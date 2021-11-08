@@ -5,7 +5,7 @@
 void intro()
 {
     std::cout << "==============================Sorting Visualizer==============================\n\n"
-              << "Visualization of different sorting algorithms in C++ with SDL2 Library. A sorting algorithm is an algorithm that puts the elements of a list in a certain order. While there are a large number of sorting algorithms, in practical implementations a few algorithms predominate.\n"
+              << "Visualization of different sorting algorithms in C++ with SDL2 Library.\n"
               << "Press ENTER to show controls...";
 
     std::string s;
@@ -18,8 +18,7 @@ void intro()
 
 bool controls()
 {
-    std::cout << "WARNING: Giving repetitive commands may cause latency and the visualizer may behave unexpectedly. Please give a new command only after the current command's execution is done.\n\n"
-              << "Available Controls inside Sorting Visualizer:-\n"
+    std::cout << "Available Controls inside Sorting Visualizer:-\n"
               << "    Use 0 to Generate a different randomized list.\n"
               << "    Use 1 to start Selection Sort Algorithm.\n"
               << "    Use 2 to start Insertion Sort Algorithm.\n"
