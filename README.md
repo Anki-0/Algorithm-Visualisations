@@ -25,16 +25,16 @@ Visualization of different sorting algorithms in C++ with SDL2 Library.
 
 A sorting algorithm are the algorithums that used to sort the list or an array.There are multiple sorting algorithums out there, few are mention in project.
 
-#### To learn about SDL2 Check this Out: [SDL2 BASIC](sdltutorial.com/sdl-tutorial-basics)
+#### To learn about SDL2 Check this Out: [SDL2 BASIC](https://sdltutorial.com/sdl-tutorial-basics)
 
 ## Requirment
 
-- [C++](mingw-w64/org/downloads/)
-- [SDL2](libsdl.org/download-2.0.php) - Download
+- [C++](https://mingw-w64/org/downloads/)
+- [SDL2](https://libsdl.org/download-2.0.php) - Download
 
 ## Installation
 
-[SDL2](lazyfoo.net/tutorial/SDL/01_hello_SDL/windows/index.php) - How to download and install SDL2 ?
+[SDL2](https://lazyfoo.net/tutorial/SDL/01_hello_SDL/windows/index.php) - How to download and install SDL2 ?
 
 ## Usage
 
